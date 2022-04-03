@@ -1,4 +1,4 @@
-<h1 align="center">pico-ducky</h1>
+<h1 align="center">HID-Attack-Rubber-ducky-using-Raspberry-Pi-pico</h1>
 
 <div align="center">
   <strong>Make a cheap but powerful USB Rubber Ducky with a Raspberry Pi Pico</strong>
